@@ -34,4 +34,20 @@ A customizable hero banner section for Online Store 2.0 themes. Everything can b
 ### Install
 Copy `sections/custom-hero-banner.liquid` into your theme's `sections` folder, then add "Custom Hero Banner" from the theme editor.
 
-Tested on a Shopify development store. Built while learning Liquid, with AI assistance.
+## Custom Slider
+
+A customizable slider section for Online Store 2.0 themes. Slides and styling can be edited from the theme editor, with no code changes needed.
+
+### Settings in the theme editor
+- Slide content (heading and text for each slide)
+- Overlay opacity
+- Autoplay speed
+- Arrows on/off
+- Dots on/off
+- Content padding
+- Responsive layout for mobile
+
+### Install
+Copy `sections/custom-slider.liquid` into your theme's `sections` folder, then add "Custom Slider" from the theme editor.
+
+---
